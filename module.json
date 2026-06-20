@@ -2,7 +2,8 @@
   "id": "pf2e-tokens-monster-core",
   "title": "Pathfinder Tokens: Monster Core",
   "description": "<p>This all-in-one pack includes token artwork and portraits for the creatures in Pathfinder Second Edition's Monster Core!</p> <p>The tokens are lovingly handmade to make full use of FoundryVTT's features, and are seamlessly inserted into your system compendiums.</p>",
-  "manifest": "",
+  "manifest": "https://raw.githubusercontent.com/greatsquirrel/tokens-monster-core/main/module.json",
+  "download": "https://github.com/greatsquirrel/tokens-monster-core/releases/download/v12.1.0/tokens-monster-core.zip",
   "url": "https://paizo.com/products/btq056kl?Pathfinder-Tokens-Monster-Core",
   "version": "12.1.0",
   "media": [
