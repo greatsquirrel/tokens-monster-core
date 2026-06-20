@@ -1,0 +1,67 @@
+{
+  "id": "pf2e-tokens-monster-core",
+  "title": "Pathfinder Tokens: Monster Core",
+  "description": "<p>This all-in-one pack includes token artwork and portraits for the creatures in Pathfinder Second Edition's Monster Core!</p> <p>The tokens are lovingly handmade to make full use of FoundryVTT's features, and are seamlessly inserted into your system compendiums.</p>",
+  "manifest": "",
+  "url": "https://paizo.com/products/btq056kl?Pathfinder-Tokens-Monster-Core",
+  "version": "12.1.0",
+  "media": [
+    {
+      "type": "cover",
+      "url": "https://cdn.paizo.com/e7fd0eeb-9d7d-006b-7558-1a3e2f7bd8df/b49baa33-4a7f-4cd0-8970-faf3ca1f62b3/FVTT12003.jpg",
+      "loop": false,
+      "flags": {}
+    },
+    {
+      "type": "icon",
+      "url": "https://cdn.paizo.com/image/navigation/Nav-Logo-Global.png",
+      "loop": false,
+      "flags": {}
+    }
+  ],
+  "esmodules": [
+    "index.js"
+  ],
+  "styles": [
+    "style.css"
+  ],
+  "authors": [
+    {
+      "name": "Paizo",
+      "url": "https://paizo.com/",
+      "flags": {}
+    }
+  ],
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "flags": {
+    "compendiumArtMappings": {
+      "pf2e": {
+        "mapping": "modules/pf2e-tokens-monster-core/image-mapping.json",
+        "credit": "<em>Portrait and token artwork by Paizo.</em>"
+      },
+      "archmage": {
+        "mapping": "modules/pf2e-tokens-monster-core/assets/archmage-map.json",
+        "credit": "<em>Portrait and token artwork by Paizo.</em>"
+      },
+      "dnd5e": {
+        "mapping": "modules/pf2e-tokens-monster-core/assets/dnd5e-map.json",
+        "credit": "<em>Portrait and token artwork by Paizo.</em>"
+      },
+      "shadowdark": {
+        "mapping": "modules/pf2e-tokens-monster-core/assets/shadowdark-map.json",
+        "credit": "<em>Portrait and token artwork by Paizo.</em>"
+      },
+      "swade": {
+        "mapping": "modules/pf2e-tokens-monster-core/assets/swpf-map.json",
+        "credit": "<em>Portrait and token artwork by Paizo.</em>"
+      }
+    },
+    "tokenRingSubjectMappings": {
+      "modules/pf2e-tokens-monster-core/assets/tokens/": "modules/pf2e-tokens-monster-core/assets/subjects/"
+    }
+  },
+  "protected": false
+}
